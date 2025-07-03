@@ -21,3 +21,4 @@
 ## Важно
 - Для добавления в канал бот формирует invite ссылку и присылает ее.
 - Для отмены подписки введите sql-команду:  UPDATE subscribers SET subscription = FALSE WHERE id = (айди пользователя).
+- Имя бота - @HelperSubscribeBot
